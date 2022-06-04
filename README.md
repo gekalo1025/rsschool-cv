@@ -1,1 +1,1 @@
-https://github.com/gekalo1025/rsschool-cv/cv
+https://gekalo1025.github.io/rsschool-cv/cv
