@@ -30,6 +30,6 @@ function multiply(a, b){
 ```
 ## Work experience
 
-project CV  http
+project CV  https://gekalo1025.github.io/rsschool-cv/cv
 ## Education and courses:
 ## Language
