@@ -20,6 +20,10 @@ This profession has helped me develop skills such as:
 
  Due to the war in my country, I have not been working for 3 months and decided to dedicate this time to my studies. Because learning is always necessary, regardless of the situation. I want to learn how to program in order to change my current profession.
 ## Skills
+* HTML5, CSS3
+* Git, GitHub
+* VS Code
+* Adobe Photoshop, Illustrator
 
 
 ## Code example:
@@ -30,6 +34,9 @@ function multiply(a, b){
 ```
 ## Work experience
 
-project CV  https://gekalo1025.github.io/rsschool-cv/cv
+project CV  https://gekalo1025.github.io/rsschool-cv/
 ## Education and courses:
 ## Language
+* English - A1
+* Russian - Native
+* Ukrainian - Intermediate
