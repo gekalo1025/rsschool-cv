@@ -1,7 +1,7 @@
 # Roman Lysiuk
 
 
-![my-photo](photo.jpg) 
+![my-photo](image/photo.jpg) 
 
 ---
 ## Contacts for communication
