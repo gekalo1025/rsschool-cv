@@ -169,6 +169,10 @@ p {
   left: 50px;
 
 }
+.link-footer:hover{
+  color: brown;
+
+}
 
 .img-github {
   height: 30px;
@@ -180,8 +184,6 @@ p {
 }
 
 .footer-year {
-  height: 50px;
-  width: 50px;
-  position: relative;
-  left: 75%;
-}
+position: relative;
+left: 50%;
+  }
