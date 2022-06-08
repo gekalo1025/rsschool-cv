@@ -1,7 +1,7 @@
 # Roman Lysiuk
 
 
-![my-photo](image/photo.jpg) 
+![my-photo](assets/image/photo.jpg) 
 
 ---
 ## Contacts for communication
@@ -36,7 +36,7 @@ function multiply(a, b){
 
 project CV  https://gekalo1025.github.io/rsschool-cv/
 ## Education and courses:
-## Language
+## Languages
 * English - A1
 * Russian - Native
 * Ukrainian - Intermediate
